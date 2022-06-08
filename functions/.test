@@ -1,0 +1,7 @@
+PORT=3333
+HOST=0.0.0.0
+NODE_ENV=development
+APP_KEY=tZjpEqCtTGvluzJc3qM3CIrIPNe5MzpH
+DRIVE_DISK=local
+Trello_API_Key = ebe05af579bfb973f7e9eabbbd3da9aa
+Trello_API_Token = 879df75fb5702e63cba1d263d7944abb6a149d5c528ad9d594dd603007ed7177
